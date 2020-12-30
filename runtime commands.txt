@@ -1,0 +1,11 @@
+# working window
+Windows Shell
+
+# to see the version
+pip freeze
+
+# to train model
+python faces_train.py
+
+# to run the detector
+python faces.py

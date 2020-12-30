@@ -1,0 +1,7 @@
+.vs - Visual Studio C++ 2019 is used as Text Editor for all files
+
+src - contains cascades, images, detector code, training codes, png file, trainner file
+
+cascades - consists of haarcascades data
+images - contain some sample images
+
